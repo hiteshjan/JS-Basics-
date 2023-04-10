@@ -1,3 +1,3 @@
-JS101_Learning_Javascript-
+#JS101_Learning_Javascript-
 
 This is my first on github
